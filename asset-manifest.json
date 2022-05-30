@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Askar2702/weather.git/static/css/main.cb7e823a.css",
+    "main.js": "/Askar2702/weather.git/static/js/main.294acac2.js",
+    "index.html": "/Askar2702/weather.git/index.html",
+    "main.cb7e823a.css.map": "/Askar2702/weather.git/static/css/main.cb7e823a.css.map",
+    "main.294acac2.js.map": "/Askar2702/weather.git/static/js/main.294acac2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7e823a.css",
+    "static/js/main.294acac2.js"
+  ]
+}
